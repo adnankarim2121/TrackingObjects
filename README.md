@@ -1,5 +1,5 @@
 # TrackingObjects
-Code for tracking red,green, or blue a object in C++ using opencv.
+Code for tracking a red,green, or blue object in C++ using opencv.
 Please ensure to have opencv installed on your computer. To set up on a mac, I used the following tutorial:
 https://www.youtube.com/watch?v=nuGdNITm5Mw
 I compile and run my program on xcode, as it seems easiest to run opencv for cpp there. 
