@@ -84,7 +84,7 @@ int main(int argc, const char *argv[])
     int lowVal = 60;
     int highVal = 255;
     
-    //Create a TrackBar in Control Center
+    //Create a TrackBar in Control Center; alter values depending on users enviornment
     createTrackbar("lowHueValue", "Control Center", &lowHueVal, highHueVal);
     createTrackbar("highHueValue", "Control Center", &highHueVal, highHueVal);
     createTrackbar("saturationLow", "Control Center", &saturationLow, 255);
