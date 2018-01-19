@@ -7,4 +7,4 @@ I compile and run my program on xcode, as it seems easiest to run opencv for cpp
 To run,
 compile program and launch. In the console, the program will ask the user to select a color. Please be aware that the entry must be input correctly or else an error will be shown. Once that is complete, the program should run as expected. 
 
-A mp4 file will be uploaded to show a demonstration of how the program is run. 
+
